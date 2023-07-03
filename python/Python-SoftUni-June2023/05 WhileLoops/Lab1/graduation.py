@@ -30,6 +30,7 @@ while True:
         print(f'{student} graduated. Average grade: {average_grade:.2f}')
         break
 
+
 # # Input
 # student = input()
 #
