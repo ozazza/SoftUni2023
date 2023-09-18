@@ -34,6 +34,5 @@ for day in range(1, days_left + 1):
         if day == days_left:
             spirit -= 30
 
-
 print(f'Total cost: {total_price}')
 print(f'Total spirit: {spirit}')
