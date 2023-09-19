@@ -1,3 +1,0 @@
-wolf, sheep, sheep, sheep, sheep, sheep
-
-sheep, sheep, wolf
