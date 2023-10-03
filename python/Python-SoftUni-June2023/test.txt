@@ -1,6 +1,12 @@
-5
-e
-(
-(
 3
-)
+SoftUni
+I study at SoftUni
+I walk to work
+I learn Python at SoftUni
+
+4
+tomatoes
+I love tomatoes
+I can eat tomatoes forever
+I don't like apples
+Yesterday I ate two tomatoes
