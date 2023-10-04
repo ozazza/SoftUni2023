@@ -1,12 +1,14 @@
-3
-SoftUni
-I study at SoftUni
-I walk to work
-I learn Python at SoftUni
+5
+33
+19
+-2
+18
+998
+even
 
-4
-tomatoes
-I love tomatoes
-I can eat tomatoes forever
-I don't like apples
-Yesterday I ate two tomatoes
+
+3
+111
+-4
+0
+negative
