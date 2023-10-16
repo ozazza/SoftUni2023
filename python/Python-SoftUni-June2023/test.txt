@@ -1,14 +1,5 @@
-5
-33
-19
--2
-18
-998
-even
+High = 89#Low = 28#Medium = 77#Low = 23
+1250
 
-
-3
-111
--4
-0
-negative
+High = 150#Low = 55#Medium = 86#Low = 40#High = 110#Medium = 77
+220
