@@ -1,5 +1,1 @@
-rest-2|order-10|eggs-100|rest-10
-
-order-10|order-10|order-10|flour-100|order-100|oven-100|order-1000
-
-order-10|rest-50|eggs-100|rest-10
+29 13 9 0 13 0 21 0 14 82 12
