@@ -1,5 +1,5 @@
-High = 89#Low = 28#Medium = 77#Low = 23
-1250
+rest-2|order-10|eggs-100|rest-10
 
-High = 150#Low = 55#Medium = 86#Low = 40#High = 110#Medium = 77
-220
+order-10|order-10|order-10|flour-100|order-100|oven-100|order-1000
+
+order-10|rest-50|eggs-100|rest-10
