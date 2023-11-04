@@ -1,22 +1,3 @@
-Travel 10||Enemy 30||Repair 15||Titan
-50
-80
+1.0 2.5 3.0 4.5
 
-Travel 20||Enemy 50||Enemy 50||Enemy 10||Repair 15||Enemy 50||Titan
-60
-100
-
-SamsungA50, MotorolaG5, IphoneSE
-Add - Iphone10
-Remove - IphoneSE
-End
-
-HuaweiP20, XiaomiNote
-Remove - Samsung
-Bonus phone - XiaomiNote:Iphone5
-End
-
-SamsungA50, MotorolaG5, HuaweiP10
-Last - SamsungA50
-Add - MotorolaG5
-End
+2.56 1.9 -3.4 8.1
