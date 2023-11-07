@@ -1,0 +1,4 @@
+abcd efgh ijkl mnop qrst uvwx yz
+merge 4 10
+divide 4 5
+3:1
