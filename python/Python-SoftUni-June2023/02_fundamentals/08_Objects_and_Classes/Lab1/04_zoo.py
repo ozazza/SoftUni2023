@@ -24,7 +24,7 @@ class Zoo:
         elif species == "fish":
             result += f"Fishes in {self.name}: {', '.join(self.fishes)}"
         elif species == "bird":
-            result += f"Birds in {self.name}: {', '.join(self.fishes)}"
+            result += f"Birds in {self.name}: {', '.join(self.birds)}"
 
         result += f"\nTotal animals: {Zoo.__animals}"
 

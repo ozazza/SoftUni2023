@@ -1,4 +1,16 @@
+
+
 abcd efgh ijkl mnop qrst uvwx yz
+merge 4 10
+divide 4 5
+3:1
+
+abcd efgh ijkl mnop qrsttt uvwx yyzyzz
+merge 4 10
+divide 4 5
+3:1
+
+abcd efgh ijkl mnop qrst uvewx yeez
 merge 4 10
 divide 4 5
 3:1
