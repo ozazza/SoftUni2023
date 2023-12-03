@@ -66,8 +66,8 @@ for i in range(n):
         for ch in clean_2:
             symbols_ascii.append(ord(ch))
 
-        result = [''.join(str(x)) for x in symbols_ascii]
-        print(f'{clean_1}: {result}')
+        result = [str(x) for x in symbols_ascii]
+        print(f'{clean_1}: {" ".join(result)}')
 
     else:
         print('The message is invalid')
