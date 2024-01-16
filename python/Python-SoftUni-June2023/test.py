@@ -1,14 +1,23 @@
-'''
-The300
-What is that?
-I think it's the 3rd movie
-Let's watch it at 22:45
+def check_balance(str1):
+    open_list = ["[", "{", "("]
+    close_list = ["]", "}", ")"]
 
-123a456
-789b987
-654c321
-0
+    stack = []
+    for i in str1:
+        if i in open_list:
+            stack.append(i)
+        elif i in close_list:
+            pos = close_list.index(i)
+            if ((len(stack) > 0) and
+                    (open_list[pos] == stack[len(stack) - 1])):
+                stack.pop()
+            else:
+                return "Unbalanced"
+    if len(stack) == 0:
+        return "Balanced"
+    else:
+        return "Unbalanced"
 
-Let's go11!!!11!
-Okey!1!
-'''
+
+str2 = check_balance('{[(])}')
+print(str2)

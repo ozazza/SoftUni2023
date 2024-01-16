@@ -9,10 +9,7 @@ for _ in range(len(qty_order)):
     if qty_day - qty_order[0] >= 0:
         qty_day -= qty_order.popleft()
     else:
+        print('Orders left:', *qty_order)
         break
-
-if len(qty_order) > 0:
-    print('Orders left:', end=' ')
-    print(*qty_order, sep=' ')
 else:
     print('Orders complete')
