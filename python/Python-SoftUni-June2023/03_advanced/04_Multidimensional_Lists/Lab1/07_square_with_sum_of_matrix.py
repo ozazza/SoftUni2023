@@ -2,7 +2,7 @@ rows, cols = [int(x) for x in input().split(', ')]
 
 matrix = []
 
-max_sum = float('-inf') # most minimal number - minus infinity
+max_sum = float('-inf')     # most minimal number - minus infinity
 
 i_left, i_right, i_down_left, i_down_right = 0, 0, 0, 0
 for _ in range(rows):
