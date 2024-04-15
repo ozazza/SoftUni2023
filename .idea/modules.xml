@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/python/Python-SoftUni-June2023/04_python_OOP/02_classes_and_objects/.idea/02_classes_and_objects.iml" filepath="$PROJECT_DIR$/python/Python-SoftUni-June2023/04_python_OOP/02_classes_and_objects/.idea/02_classes_and_objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/.idea/PycharmProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python/Python-SoftUni-June2023/04_python_OOP/01_First_Steps_OOP/Lab2/08_pokemon_battle/project/.idea/project.iml" filepath="$PROJECT_DIR$/python/Python-SoftUni-June2023/04_python_OOP/01_First_Steps_OOP/Lab2/08_pokemon_battle/project/.idea/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python/Python-SoftUni-June2023/04_python_OOP/01_First_Steps_OOP/Lab2/08_pokemon_battle/pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/python/Python-SoftUni-June2023/04_python_OOP/01_First_Steps_OOP/Lab2/08_pokemon_battle/pythonProject/.idea/pythonProject.iml" />
     </modules>
   </component>
 </project>
